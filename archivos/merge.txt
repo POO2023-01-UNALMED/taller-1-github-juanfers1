@@ -1,0 +1,1 @@
+Porque antes, cuando la carpeta estaba vacia no detectaba cambios, ahora que añadi un .txt si lo detecto.
