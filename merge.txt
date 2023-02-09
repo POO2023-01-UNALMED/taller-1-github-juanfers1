@@ -1,1 +1,0 @@
-Porque en la carpeta de archivos, creè un .txt lo cual github si reconocio como un cambio, mientras antes (cuando estaba vacia) no lo reconocia como cambio.
