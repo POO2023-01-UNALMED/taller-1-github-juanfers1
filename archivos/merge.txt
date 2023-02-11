@@ -1,2 +1,2 @@
 
-Porque al crear la carpeta archivos y dejarla vacía, no se detectó realmente ningún cambio.
+Porque al crear la carpeta archivos y dejarla vacía, no se detectó realmente ningún cambio. Ahora, que se añadió el respuesta.txt sí detectó un cambio y se pudo hacer un commit.
