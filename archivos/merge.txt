@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Juan Fernando Castaño Durán, aspiro a manejar bien los objetos desde la POO para así aplicarlos conceptualmente en algún lenguaje de mi agrado.
-=======
 
 Porque al crear la carpeta archivos y dejarla vacía, no se detectó realmente ningún cambio. Ahora, que se añadió el respuesta.txt sí detectó un cambio y se pudo hacer un commit.
->>>>>>>
+
 Es importante tener cuidado con modificar dos archivos al mismo tiempo porque al hacer commit e intentar hacer el push, tendremos conflictos por los cambios realizados al mismo tiempo.
