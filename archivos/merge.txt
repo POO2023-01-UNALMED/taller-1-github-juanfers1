@@ -1,1 +1,2 @@
 
+Porque al crear la carpeta archivos y dejarla vacía, no se detectó realmente ningún cambio.
